@@ -1,5 +1,5 @@
-Language detection - work out the language of a piece of text using
-an ngram approach.
+Language detection - Scala code to work out the language of a piece 
+of text using an ngram approach.
 
 The test resources for this project include text from Wikipedia that
 is licensed under the GNU Free Documentation License (GFDL).
